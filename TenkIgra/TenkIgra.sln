@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30711.63
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TenkIgra", "TenkIgra.csproj", "{89287753-0B01-4DB1-8BBC-4BB885DF128F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{89287753-0B01-4DB1-8BBC-4BB885DF128F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{89287753-0B01-4DB1-8BBC-4BB885DF128F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{89287753-0B01-4DB1-8BBC-4BB885DF128F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{89287753-0B01-4DB1-8BBC-4BB885DF128F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {859BD8E9-CF36-4F78-80D9-1A98681CD29F}
+	EndGlobalSection
+EndGlobal

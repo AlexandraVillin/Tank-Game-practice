@@ -1,0 +1,10 @@
+C:\Users\acolj\Desktop\programs\TenkIgra\bin\Debug\TenkIgra.exe.config
+C:\Users\acolj\Desktop\programs\TenkIgra\bin\Debug\TenkIgra.exe
+C:\Users\acolj\Desktop\programs\TenkIgra\bin\Debug\TenkIgra.pdb
+C:\Users\acolj\Desktop\programs\TenkIgra\obj\Debug\TenkIgra.csprojAssemblyReference.cache
+C:\Users\acolj\Desktop\programs\TenkIgra\obj\Debug\TenkIgra.Properties.Resources.resources
+C:\Users\acolj\Desktop\programs\TenkIgra\obj\Debug\TenkIgra.csproj.GenerateResource.cache
+C:\Users\acolj\Desktop\programs\TenkIgra\obj\Debug\TenkIgra.csproj.CoreCompileInputs.cache
+C:\Users\acolj\Desktop\programs\TenkIgra\obj\Debug\TenkIgra.exe
+C:\Users\acolj\Desktop\programs\TenkIgra\obj\Debug\TenkIgra.pdb
+C:\Users\acolj\Desktop\programs\TenkIgra\obj\Debug\TenkIgra.TankGame.resources
